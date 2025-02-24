@@ -1,3 +1,9 @@
+---
+layout: post
+title: js中let、const、var的区别
+date: 2025-02-24
+tags: js笔记
+---
 # let、const、var的区别
 
 ## 1. 作用域
